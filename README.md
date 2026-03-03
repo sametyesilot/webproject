@@ -20,3 +20,4 @@ npm run dev
 Tarayicida http :// localhost :5173 adresini ac.
 
 ## Ekran Goruntusu
+![Lighthouse Erişilebilirlik Testi Sonucu](./public/lighthouse.png)
